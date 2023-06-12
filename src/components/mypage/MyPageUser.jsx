@@ -41,7 +41,7 @@ export default function MyPageUser() {
     };
 
     fetchMyPageInfo();
-  }, [token]);
+  }, [token, setUserInfo]);
 
   return (
     <>
