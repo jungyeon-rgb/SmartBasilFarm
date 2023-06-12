@@ -63,7 +63,7 @@ const Dashboard = (props) => {
     console.log(sensor);
     console.log(actuator);
     console.log(autoConfig);
-  }, [client]);
+  }, [client, actuator, autoConfig, sensor]);
 
   //---3분마다 센서로그 GET 요청
   useInterval(async () => {
