@@ -2,15 +2,14 @@
 <br />
 <p align="center"><img width="500" alt="logo" src="https://github.com/jungyeon-rgb/SmartBasilFarm/assets/119380048/3920979c-a231-4181-8714-c8ce03a8f5be"></p>
 <br />
-문구류를 가장 많이 사용하는 연령층인 10대에서 20대 초중반의 기호/트렌드에 맞는 상품을 찾아 판매 및 소개하는 React 기반의 프레임워크 `Next.js`와 `Emotion`으로 구현한 문구 쇼핑몰 프로젝트
 
-👉🏻 [Figma 보러가기](https://www.figma.com/file/vpc6cgxrzFIsNXW8DFwlZs/IoT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?type=design&node-id=188%3A337&mode=design&t=8L6lIiIsh9zssVoy-1)
-👉🏻 [발표 ppt 보러가기]()
+집에서 농작물을 키워보고 싶지만 바쁜 직장인들을 위해 원격으로 농작물의 상태를 확인하고 관리할 수 있는 스마트팜 프로젝트
 <br />
 <br />
+
 ## 🦖 프로젝트 정보
 > - 엘리스 IoT 1기 팀 프로젝트 <br />
-> - 개발 기간 : 23/0/0~23/5/19(4주) <br />
+> - 개발 기간 : 23/4/24~23/5/19(4주) <br />
 > - 프론트엔드 2명, 백엔드 2명, 디바이스 2명 <br />
 
 <br />
@@ -39,7 +38,7 @@
 <br />
 
 ## 🦖 배포주소
-> 프론트엔드 배포 주소 : []() <br />
+> 프론트엔드 배포 주소 : [smart-basil-farm.vercel.app](smart-basil-farm.vercel.app) <br />
 <br />
 
 ## 🦖 시작 가이드
@@ -68,22 +67,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 <br />
 
-## 🦖 디자인 레이아웃
+## 🦖 디자인 레이아웃 및 플로우 차트
 
 ### 1. Figma
 
-[✅ 피그마](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fvpc6cgxrzFIsNXW8DFwlZs%2FIoT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%3Fnode-id%3D0%3A1%26t%3D1BicK3MmUEdjRGTV-1)
+[👉🏻 Figma 보러가기](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fvpc6cgxrzFIsNXW8DFwlZs%2FIoT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%3Fnode-id%3D0%3A1%26t%3D1BicK3MmUEdjRGTV-1)
 
-### 2. Color Code
+### 2. 플로우 차트
 
-![✅ 컬러코드](https://kdt-gitlab.elice.io/iot_track/class_01/iot_project/team1/frontend/uploads/884abe4f5d8d35bca95931cff4fdf17b/image_23__1_.png)
+![Basil Farm-Flow Chart drawio (3)](https://github.com/jungyeon-rgb/SmartBasilFarm/assets/119380048/d78d1f48-aa50-4070-81c8-b48c51b0a630)
 
-### 3. Font
 
-![✅ 폰트이미지](https://kdt-gitlab.elice.io/iot_track/class_01/iot_project/team1/frontend/uploads/07f1ceba9dc744e37bb9b3deb3dc1291/image_21.png)
-
-### 👉 [Pretendard](https://cactus.tistory.com/306)
-
+<br />
 
 ## 🦖 Commit Convention
 
