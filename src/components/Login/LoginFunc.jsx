@@ -59,7 +59,7 @@ export default function LoginFunc() {
     setLoading(true);
 
     axiosInstance
-      .post(`user/sign_in`, body)
+      .post(`users/sign_in`, body)
       .then((response) => {
         handleResponse(response);
         setLoading(false);

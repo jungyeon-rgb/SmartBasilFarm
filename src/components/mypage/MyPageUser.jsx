@@ -15,7 +15,7 @@ export default function MyPageUser() {
     const fetchMyPageInfo = async () => {
       setLoading(true);
       try {
-        const response = await axiosInstance.get(`user/sign_in/my_page`, {
+        const response = await axiosInstance.get(`user/sign_in/info`, {
           headers: {
             Authorization: `Bearer ${token}`,
           },

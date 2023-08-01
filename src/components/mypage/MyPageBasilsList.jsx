@@ -16,7 +16,7 @@ export default function MyPageBailsList() {
   useEffect(() => {
     const fetchDefaultDeviceId = async () => {
       try {
-        const response = await axiosInstance.get(`device/info/${device_id}`);
+        const response = await axiosInstance.get(`devices/:${device_id}`);
         response.data[0] && setDevice(response.data[0]);
       } catch (error) {
         console.error("디바이스 목록 : 🚀디바이스 목록을 가져오는데 실패했습니다.", error);
