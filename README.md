@@ -1,7 +1,8 @@
 # 🪄 스마트팜 'BasilFarm'
 
-<p align="center"><img width="500" alt="logo" src="https://github.com/jungyeon-rgb/SmartBasilFarm/assets/119380048/3920979c-a231-4181-8714-c8ce03a8f5be"></p>
+
 <br />
+<p align="center"><img width="500" alt="logo" src="https://github.com/jungyeon-rgb/SmartBasilFarm/assets/119380048/3920979c-a231-4181-8714-c8ce03a8f5be"></p>
 <br />
 
 집에서 농작물을 키워보고 싶지만 바쁜 2030 MZ세대 직장인들을 위해 원격으로 농작물의 상태를 확인하고 관리할 수 있는 스마트팜 프로젝트
